@@ -72,7 +72,7 @@ function Encabezado() {
             className={"w-48 m-0 "}
             onClick={() => handleScroll2(1)}
           />
-          <h1 className="text-3xl font-bold">TECNIFORCE</h1>
+          <h1 className="text-3xl font-bold">TECNOFORCE</h1>
         </div>
 
         <nav className="flex  justify-end text-end items-center gap-4">
@@ -305,7 +305,7 @@ function Encabezado() {
           </svg>
           <h1 className="text-6xl text-black font-bold">CONTACTANOS</h1>
           <p className="text-black font-sans text-xl">
-            <span>Email:</span> Tecniforce_colombia@gmail.com
+            <span>Email:</span> Tecnoforce_colombia@gmail.com
           </p>
           <p className="text-black font-sans text-xl">
             <span>Phone:</span> +57 3215320281
@@ -317,7 +317,7 @@ function Encabezado() {
       <footer className="bg-blue-950 text-white flex justify-center items-center gap-5 p-3">
         <Copyrigth ancho="1.5em" alto="2em" />
 
-        <p className="font-bold"> 2025 Derechos reservados para Tecniforce</p>
+        <p className="font-bold"> 2025 Derechos reservados para Tecnoforce</p>
       </footer>
     </>
   );
