@@ -1,0 +1,38 @@
+[
+  {
+    "cliente": "Juan Pérez",
+    "estado": "En reparación",
+    "fechaIngreso": "2025-05-20",
+    "nombreEquipo": "Laptop HP Pavilion",
+    "problema": "No enciende",
+    "rastreo": "GUIA12345",
+    "tecnico": "Carlos Gómez"
+  },
+  {
+    "cliente": "María López",
+    "estado": "Listo",
+    "fechaIngreso": "2025-05-18",
+    "nombreEquipo": "iPhone 13",
+    "problema": "Pantalla rota",
+    "rastreo": "GUIA67890",
+    "tecnico": "Lucía Fernández"
+  },
+  {
+    "cliente": "Pedro Ramírez",
+    "estado": "listo",
+    "fechaIngreso": "2025-05-25",
+    "nombreEquipo": "PlayStation 5",
+    "problema": "Error de disco",
+    "rastreo": "GUIA54321",
+    "tecnico": "Miguel Torres"
+  },
+  {
+    "cliente": "Ana Torres",
+    "estado": "iniciado",
+    "fechaIngreso": "2025-05-10",
+    "nombreEquipo": "Tablet Samsung Galaxy Tab",
+    "problema": "Batería no carga",
+    "rastreo": "GUIA11223",
+    "tecnico": "Sofía Herrera"
+  }
+]
